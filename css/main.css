@@ -1,0 +1,14 @@
+html {
+  font-family: Overpass, sans-serif;
+  background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
+  color: #fff;
+}
+
+.border-bottom {
+  border-style: solid;
+  border-width: 3px;
+  border-color: #ff9500;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+}
