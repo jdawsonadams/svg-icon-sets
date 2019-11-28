@@ -12,3 +12,23 @@ html {
   border-left: 0;
   border-right: 0;
 }
+
+i {
+  color: rgba(255, 255, 255, 1);
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.btn {
+  color: #fff;
+  border-color: #fff;
+}
+
+.btn:hover {
+  background-color: #fff;
+  color: #ff9500;
+  border-color: #fff;
+}
